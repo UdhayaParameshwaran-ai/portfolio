@@ -9,7 +9,7 @@ import HeroOrbit from "../components/HeroOrbit";
 const Hero = () => {
   return (
     <div
-      className="py-20 md:py-48 lg:py-40 min-h-screen min-w-screen relative z-0 font-lato overflow-hidden"
+      className="py-20 md:py-48 lg:py-40 min-w-screen relative z-0 font-lato overflow-hidden"
       id="heroSection"
     >
       <div className="absolute inset-0 [mask-image:linear-gradient(to_bottom,transparent,black_1%,black_68%,transparent)]">
